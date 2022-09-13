@@ -1,1 +1,1 @@
-# goaway.github.io
+# Go away.
